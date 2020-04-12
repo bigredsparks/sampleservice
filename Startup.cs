@@ -40,6 +40,7 @@ namespace sampleservice
                 app.UseHsts();
             }
 
+// this is a comment
 
             app.UseRouting();
 
